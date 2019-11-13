@@ -32,6 +32,10 @@ I will create a dark VR room. In this room you can move freely. There will be la
 ![alt text](https://github.com/sloos123/VRGame_sloos/blob/master/img/idea2.png)
 ![alt text](https://github.com/sloos123/VRGame_sloos/blob/master/img/idea3.png)
 
+### Third party material: 
+Google HelloVR and sample scenes package: "https://github.com/googlevr/gvr-unity-sdk/releases"
+
+
 ---   
 ### Errors/Fails:
 
@@ -70,3 +74,22 @@ The first Error turned the whole game on the phone upside down and every movemen
 
 Result #1:
 In Project settings > Player Settings > Other settings > Rendering > Graphic API's i had to remove "Vulkan"
+
+---
+
+What to do:
+1. run HelloVR on android device --- DONE
+2. run my own scene on android device --- DONE
+3. gray boxing --- DONE
+4. create waypoints and make them work --- IN PROGRESS (help from "https://www.youtube.com/watch?v=GIDz0DjhA4E")
+5. be able to grab and drag a object
+6. create globe, animate globe
+7. put background music in
+8. make sound if correct object is on pole
+9. download and insert assets
+10. create colliders and rigid bodys
+11. change light to dark
+
+----
+
+Copyright by SARAH LOOS
