@@ -22,7 +22,7 @@ Target Platform: iOs version 12.4.2
 
 I use the Intober prompt list for a creative idea. I have to chose at least one word from the list and build my idea around this word. 
 
-[alt text](https://github.com/sloos123/VRGame_sloos/blob/master/img/inktober.png)
+![alt text](https://github.com/sloos123/VRGame_sloos/blob/master/img/inktober.png)
 
 Inktober prompt list chosen words: Dark, Dragon
 
