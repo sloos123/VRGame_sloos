@@ -33,7 +33,7 @@ Failed to build
 Result #1:
 At first I tried to install "UnitySetup-iOS-Support-for-editor-2019.1.14f1.pkg" because I thought that this was missing. Then it failed to install. I searched for an answer why it failed to instal. After a long time I realized that I already had intalled this package. So what was missing? I had to install XCode for my Mac. After installing XCode, unity said "build sucessful" which brings us to my next Error.
 
-![alt text](https://github.com/sloos123/VRGame_sloos/img/Error1.png)
+![alt text](https://github.com/sloos123/VRGame_sloos/blob/master/img/Error1.png)
 
 Error #2:
 While in Unity it said "build successful" in XCode the build failed.
