@@ -81,10 +81,10 @@ What to do:
 1. run HelloVR on android device --- DONE
 2. run my own scene on android device --- DONE
 3. gray boxing --- DONE
-4. create waypoints and make them work --- IN PROGRESS (help from "https://www.youtube.com/watch?v=GIDz0DjhA4E")
-5. be able to grab and drag a object https://www.youtube.com/watch?v=UnSVN99ADpY
-6. create globe, animate globe --- DONE (help from "https://www.youtube.com/watch?v=WZQwitC1Kjw")
-7. put background music in --- DONE (https://www.youtube.com/watch?v=mjCHzEWTdrU)
+4. create waypoints and make them work (help from "https://www.youtube.com/watch?v=GIDz0DjhA4E") --- IN PROGRESS 
+5. be able to grab and drag a object (help from https://www.youtube.com/watch?v=UnSVN99ADpY)
+6. create globe, animate globe (help from "https://www.youtube.com/watch?v=WZQwitC1Kjw") --- DONE 
+7. put background music in (https://www.youtube.com/watch?v=mjCHzEWTdrU) --- DONE 
 8. make sound if correct object is on pole
 9. download and insert assets
 10. create colliders and rigid bodys
