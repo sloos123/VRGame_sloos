@@ -82,13 +82,13 @@ What to do:
 2. run my own scene on android device --- DONE
 3. gray boxing --- DONE
 4. create waypoints and make them work --- IN PROGRESS (help from "https://www.youtube.com/watch?v=GIDz0DjhA4E")
-5. be able to grab and drag a object
-6. create globe, animate globe
-7. put background music in
+5. be able to grab and drag a object https://www.youtube.com/watch?v=UnSVN99ADpY
+6. create globe, animate globe --- DONE (help from "https://www.youtube.com/watch?v=WZQwitC1Kjw")
+7. put background music in --- DONE (https://www.youtube.com/watch?v=mjCHzEWTdrU)
 8. make sound if correct object is on pole
 9. download and insert assets
 10. create colliders and rigid bodys
-11. change light to dark
+11. change light to dark (help from https://www.youtube.com/watch?v=USOqaDSuDXI)
 
 ----
 

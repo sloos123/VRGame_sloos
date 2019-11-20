@@ -31,10 +31,10 @@ public class WaypointController : MonoBehaviour
         Vector3 directionToTarget = targetWaypoint.position - transform.position;
         Quaternion rotationToTarget = Quaternion.LookRotation(directionToTarget);
 
-        transform.rotation = Quaternion.Slerp(transform.rotation, rotationToTarget, rotationStep);
+        //transform.rotation = Quaternion.Slerp(transform.rotation, rotationToTarget, rotationStep);
 
-        Debug.DrawRay(transform.position, transform.forward * 50f, Color.green, 0f); //Draws a ray forward in the direction the enemy is facing
-        Debug.DrawRay(transform.position, directionToTarget, Color.red, 0f); //Draws a ray in the direction of the current target waypoint
+        //Debug.DrawRay(transform.position, transform.forward * 50f, Color.green, 0f); //Draws a ray forward in the direction the enemy is facing
+       // Debug.DrawRay(transform.position, directionToTarget, Color.red, 0f); //Draws a ray in the direction of the current target waypoint
 
         float distance = Vector3.Distance(transform.position, targetWaypoint.position);
         CheckDistanceToWaypoint(distance);
