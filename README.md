@@ -32,6 +32,9 @@ I will create a dark VR room. In this room you can move freely. There will be la
 ![alt text](https://github.com/sloos123/VRGame_sloos/blob/master/img/idea2.png)
 ![alt text](https://github.com/sloos123/VRGame_sloos/blob/master/img/idea3.png)
 
+### NEW CONCEPT:
+Way of movement: My new way of movement is automatic. The player moves between 4 waypoints automatically, which increases the dificulty to grab the right objects and put them on the pole. It's way more fun XD
+
 ### Third party material: 
 Google HelloVR and sample scenes package: "https://github.com/googlevr/gvr-unity-sdk/releases"
 Background Music: "https://www.youtube.com/watch?v=qEgYX1fgmGk"
@@ -101,9 +104,8 @@ What to do:
 6. create globe, animate globe (help from "https://www.youtube.com/watch?v=WZQwitC1Kjw") --- DONE 
 7. put background music in (https://www.youtube.com/watch?v=mjCHzEWTdrU) --- DONE 
 8. make sound if correct object is on pole (https://www.youtube.com/watch?v=mjCHzEWTdrU)
-9. create colliders and rigid bodys
-10. change light to dark (help from https://www.youtube.com/watch?v=USOqaDSuDXI)
-11. download and insert assets aka make it beautiful XD
+9. change light to dark (help from https://www.youtube.com/watch?v=USOqaDSuDXI)
+10. download and insert assets aka make it beautiful XD
 
 ----
 
