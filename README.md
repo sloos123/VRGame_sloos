@@ -34,6 +34,9 @@ I will create a dark VR room. In this room you can move freely. There will be la
 
 ### Third party material: 
 Google HelloVR and sample scenes package: "https://github.com/googlevr/gvr-unity-sdk/releases"
+Background Music: "https://www.youtube.com/watch?v=qEgYX1fgmGk"
+Globe Texture: "http://www.shadedrelief.com/natural3/pages/textures.html"
+Assets:
 
 
 ---   
@@ -75,20 +78,32 @@ The first Error turned the whole game on the phone upside down and every movemen
 Result #1:
 In Project settings > Player Settings > Other settings > Rendering > Graphic API's i had to remove "Vulkan"
 
+Error #2:
+Can't change the view of the player.
+
+Result #2:
+Forgot to add the GVREditorEmulation prefab from Google VR Cardboard because it was not said in the tutorial ("https://www.youtube.com/watch?v=UnSVN99ADpY").
+
+Error #3:
+Grabbing stuff doesn't work anymore since trying to add trigger Events to grab the object only if you look at it.
+
+Result #3:
+Forgot to add the GRVEventSystem prefab from Google VR Cardboard because it was not said in the tutorial ("https://www.youtube.com/watch?v=UnSVN99ADpY").
+
 ---
 
 What to do:
 1. run HelloVR on android device --- DONE
 2. run my own scene on android device --- DONE
 3. gray boxing --- DONE
-4. create waypoints and make them work (help from "https://www.youtube.com/watch?v=GIDz0DjhA4E") --- IN PROGRESS 
-5. be able to grab and drag a object (help from https://www.youtube.com/watch?v=UnSVN99ADpY)
+4. create waypoints and make them work (help from "https://www.youtube.com/watch?v=GIDz0DjhA4E") --- DONE 
+5. be able to grab and drag a object (help from https://www.youtube.com/watch?v=UnSVN99ADpY) --- DONE
 6. create globe, animate globe (help from "https://www.youtube.com/watch?v=WZQwitC1Kjw") --- DONE 
 7. put background music in (https://www.youtube.com/watch?v=mjCHzEWTdrU) --- DONE 
 8. make sound if correct object is on pole (https://www.youtube.com/watch?v=mjCHzEWTdrU)
-9. download and insert assets
-10. create colliders and rigid bodys
-11. change light to dark (help from https://www.youtube.com/watch?v=USOqaDSuDXI)
+9. create colliders and rigid bodys
+10. change light to dark (help from https://www.youtube.com/watch?v=USOqaDSuDXI)
+11. download and insert assets aka make it beautiful XD
 
 ----
 
