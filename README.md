@@ -85,7 +85,7 @@ What to do:
 5. be able to grab and drag a object (help from https://www.youtube.com/watch?v=UnSVN99ADpY)
 6. create globe, animate globe (help from "https://www.youtube.com/watch?v=WZQwitC1Kjw") --- DONE 
 7. put background music in (https://www.youtube.com/watch?v=mjCHzEWTdrU) --- DONE 
-8. make sound if correct object is on pole
+8. make sound if correct object is on pole (https://www.youtube.com/watch?v=mjCHzEWTdrU)
 9. download and insert assets
 10. create colliders and rigid bodys
 11. change light to dark (help from https://www.youtube.com/watch?v=USOqaDSuDXI)

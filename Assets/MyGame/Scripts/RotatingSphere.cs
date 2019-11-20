@@ -13,6 +13,6 @@ public class RotatingSphere : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(new Vector3(45, 45, 45) * Time.deltaTime);
+        transform.Rotate(new Vector3(10, 25, 0) * Time.deltaTime);
     }
 }
