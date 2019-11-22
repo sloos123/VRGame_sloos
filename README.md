@@ -40,7 +40,13 @@ Google HelloVR and sample scenes package: "https://github.com/googlevr/gvr-unity
 Background Music: "https://www.youtube.com/watch?v=qEgYX1fgmGk"
 Globe Texture: "http://www.shadedrelief.com/natural3/pages/textures.html"
 Assets:
-
+Dragon: https://assetstore.unity.com/packages/3d/props/interior/golden-dragon-statue-63132
+Pillar: https://assetstore.unity.com/packages/3d/environments/dungeons/low-poly-pillar-set-20825
+Coin: https://assetstore.unity.com/packages/3d/props/old-coin-49530
+Sword: https://assetstore.unity.com/packages/3d/props/weapons/rpg-swords-7056
+Crystal:https://assetstore.unity.com/packages/3d/props/sets-gems-19902
+Crown: https://assetstore.unity.com/packages/3d/characters/animals/spider-queen-93469
+Walls: https://assetstore.unity.com/packages/3d/environments/boss-of-war-assets-86108
 
 ---   
 ### Errors/Fails:
